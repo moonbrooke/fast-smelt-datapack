@@ -6,8 +6,8 @@ Made for **Minecraft 1.21.2+**
 
 ### Download
 
-Check [Releases](https://github.com/moonbrooke/fast-smelt-datapack/releases) page.
+Check [Releases](https://github.com/moonbrooke/fast-smelt-datapack/releases) page or [Modrinth](https://modrinth.com/datapack/fast-smelt).
 
 ### Install
 
-Check [Minecraft Wiki](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack).
+Check [Minecraft Wiki](https://minecraft.wiki/w/Tutorial:Installing_a_data_pack).
