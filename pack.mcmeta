@@ -3,8 +3,8 @@
         "pack_format": 48,
         "supported_formats": {
             "min_inclusive": 48,
-            "max_inclusive": 80
+            "max_inclusive": 81
         },
-        "description": "§6Fast Smelt 1.21\n§e1ms per item"
+        "description": "§6Fast Smelt 1.21.2+\n§e1ms per item"
     }
 }
