@@ -2,6 +2,6 @@
     "pack": {
         "description": "§6Fast Smelt 1.21.9+\n§e1ms per item",
         "min_format": 82,
-        "max_format": 85
+        "max_format": 87
     }
 }
