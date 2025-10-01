@@ -2,7 +2,7 @@
 
 Smelt items on Furnace, Blast Furnace, Smoker, and Campfire fast (1ms per item).
 
-Made for **Minecraft 1.21.2+**
+Made for **Minecraft 1.21.x**
 
 ### Download
 
