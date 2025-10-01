@@ -3,7 +3,9 @@
   "category": "misc",
   "cookingtime": 1,
   "experience": 0.2,
-  "ingredient": "minecraft:nether_quartz_ore",
+  "ingredient": {
+    "item": "minecraft:nether_quartz_ore"
+  },
   "result": {
     "id": "minecraft:quartz"
   }

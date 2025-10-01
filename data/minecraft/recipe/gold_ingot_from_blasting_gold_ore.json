@@ -4,7 +4,9 @@
   "cookingtime": 1,
   "experience": 1.0,
   "group": "gold_ingot",
-  "ingredient": "minecraft:gold_ore",
+  "ingredient": {
+    "item": "minecraft:gold_ore"
+  },
   "result": {
     "id": "minecraft:gold_ingot"
   }

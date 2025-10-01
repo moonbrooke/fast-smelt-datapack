@@ -3,7 +3,9 @@
   "category": "misc",
   "cookingtime": 1,
   "experience": 0.1,
-  "ingredient": "minecraft:netherrack",
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
   "result": {
     "id": "minecraft:nether_brick"
   }
