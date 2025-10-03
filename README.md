@@ -1,8 +1,8 @@
 # fast-smelt-datapack
 
-Smelt items on Furnace, Blast Furnace, Smoker, and Campfire fast (1ms per item).
+Smelt items on Furnace, Blast Furnace, Smoker, and Campfire fast (1 tick per item).
 
-Made for **Minecraft 1.21.x**
+Made for **Minecraft 1.21 and newer**.
 
 ### Download
 
