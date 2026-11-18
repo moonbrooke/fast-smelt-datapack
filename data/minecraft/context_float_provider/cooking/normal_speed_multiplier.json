@@ -1,1 +1,16 @@
-200.0
+{
+  "type": "minecraft:div",
+  "left": 200.0002,
+  "right": {
+    "type": "minecraft:from_int",
+    "input": {
+      "type": "minecraft:score",
+      "target": {
+        "type": "minecraft:fixed",
+        "name": "#fastsmelt"
+      },
+      "score": "fastsmelt.speed",
+      "fallback": 1
+    }
+  }
+}

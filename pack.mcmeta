@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "§6Fast Smelt\n§e1 tick per item",
+    "description": "§6Fast Smelt\n§eSmelt items fast!",
     "min_format": 121,
     "max_format": 999
   }
