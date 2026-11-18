@@ -1,6 +1,6 @@
 {
   "type": "minecraft:div",
-  "left": 200.0002,
+  "left": 200.0,
   "right": {
     "type": "minecraft:from_int",
     "input": {
