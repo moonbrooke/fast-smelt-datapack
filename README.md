@@ -1,27 +1,23 @@
 # fast-smelt-datapack
 
-Smelt items on Furnace, Blast Furnace, Smoker, and Campfire fast (1 tick per item by default).
+Makes smelting fast (1 tick per item by default) and lets you change the
+smelting time in game with a simple `/trigger` command. This means Blast Furnace and Smoker are pretty much redundant. And it works with all smeltable items.
 
-Players can change the smelting time in-game with:
+## Change the smelting speed
 
-```
-/trigger fastsmelt.speed set 20
-```
+⚠️ This feature is ONLY on datapack/mod **v1.3.1+** and for **Minecraft 26.3 or newer**.
 
-The value is the cooking time in game ticks (`20` = 1 second). The default is `1` tick.
-Values are clamped between `1` and `72000` ticks (1 hour). The setting is global (it affects all
-furnaces, blast furnaces, and smokers in the world) and persists across reloads.
+The speed number in **ticks**. Larger = slower.
 
-A speed change is picked up the next time a furnace-family block consumes fuel; fuel that is
-already burning keeps the speed it started with. Campfires always cook in `1` tick, because
-Minecraft 26.3 campfires do not use cooking fuel (and therefore cannot use the speed provider).
-
-Made for **Minecraft 26.3**.
+| Command                         | Description                        |
+|---------------------------------|------------------------------------|
+| /trigger fastbrew.speed set 1   | 1 ticks (default)                  |
+| /trigger fastbrew.speed set 20  | 20 ticks = 1 second                |
+| /trigger fastbrew.speed set 200 | 200 ticks = 10 seconds (vanilla)   |
 
 ![Fast Smelt Demo](https://github.com/moonbrooke/fast-smelt-datapack/blob/main/assets/fast-smelt.gif?raw=true)
 
 ### Download
-
 
 - [Releases page](https://github.com/moonbrooke/fast-smelt-datapack/releases)
 - [Modrinth](https://modrinth.com/datapack/fast-smelt)
